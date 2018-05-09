@@ -1,9 +1,10 @@
 div {
     border: 1px solid green;
-    padding: 10px 10px 5px 2px;
+    padding: 10px 10px 5px 10px;
     text-align: center;
     font-size: 15px;
     width: 90%;
     margin: auto;
     color: darkblue;
+    box-shadow: 5px 5px 5px 5px gray;
 }
